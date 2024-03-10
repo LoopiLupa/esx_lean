@@ -21,8 +21,8 @@ Drink Lean And Get Crazy Trip.
 # Preview: 
 
 
-![Image]([https://i.imgur.com/OsOgJku.png)
-![Image](https://imgur.com/a/EqQCxaZ)
+![image (1)](https://github.com/LoopiLupa/esx_lean/assets/80397747/a5b39130-4a85-498c-ad7a-a44a64a57527)
+![ETfbgOx](https://github.com/LoopiLupa/esx_lean/assets/80397747/784871e9-f7bd-4ebb-b339-2e8bd92037fd)
 
 # Compatibility
 
